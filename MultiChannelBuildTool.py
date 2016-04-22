@@ -5,7 +5,7 @@ import shutil
 import os
 
 # 空文件 便于写入此空文件到apk包中作为channel文件
-src_empty_file = 'info/czt.txt'
+src_empty_file = 'info/channel.txt'
 # 创建一个空文件（不存在则创建）
 f = open(src_empty_file, 'w') 
 f.close()
