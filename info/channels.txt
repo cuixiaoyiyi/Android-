@@ -1,0 +1,9 @@
+com.shunshunliuxue.360mobile
+com.shunshunliuxue.xiaomi
+com.shunshunliuxue.tecent
+com.shunshunliuxue.wandoujia
+com.shunshunliuxue.baidu91
+com.shunshunliuxue.anzhuo
+com.shunshunliuxue.other
+com.shunshunliuxue.guanwang
+com.shunshunliuxue.liuxuewang
